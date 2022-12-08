@@ -1,17 +1,17 @@
 <div align="center">
 
-✨Dormitory Clicker✨
+# ✨Dormitory Clicker✨
 
 ---
 
-#### 기숙사의 세탁기 및 건조기 이용 관련 앱
+### 기숙사의 세탁기 및 건조기 이용 관련 앱
 
-#### 📺Demo📺
+### 📺Demo📺
 
-#### 🙉Front Stacks🙉
+### 🙉Front Stacks🙉
 
-#### 🙈Back Stacks🙈
+### 🙈Back Stacks🙈
 
-#### 🛠️Using Tools🛠️
+### 🛠️Using Tools🛠️
 
 </div>
