@@ -5,7 +5,8 @@
 #### 기숙사의 세탁기 및 건조기 이용 관련 앱
 
 ## 📺Demo📺
-
+<img src="https://user-images.githubusercontent.com/109636910/206385375-12f1b475-78a7-4dea-b798-ce0f55916e48.gif">
+  
 <br>
 <br>
 
