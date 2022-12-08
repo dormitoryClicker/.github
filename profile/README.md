@@ -73,8 +73,8 @@ http://dormitoryclicker.shop/
 |API 키 관련|dotenv|v16.0.3|
 
 ### 날씨 API at Back🖼️
-https://openweathermap.org
-다양한 국가의 기상 정보 제공
+https://openweathermap.org<br>
+다양한 국가의 기상 정보 제공<br>
 API 호출 시점 기준 3시간 단위로 5일간 날씨 정보 활용
 
 <br>
